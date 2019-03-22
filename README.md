@@ -1,4 +1,4 @@
 # INF2050_lab6
 
 
-Pitaplouf ceci est une lettre : 6.
+Pitaplouf ceci est une lettre : G.
